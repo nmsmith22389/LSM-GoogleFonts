@@ -1,0 +1,12 @@
+## Interface: 70300
+## Title: LSM-GoogleFonts
+## Notes: Adds a bunch of Google Fonts to AddOns that support LibSharedMedia.
+## Version: 1.0
+## Author: Neil Smith
+
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\LibSharedMedia-3.0\lib.xml
+#@end-no-lib-strip@
+
+LSM-GoogleFonts.lua
